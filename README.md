@@ -2,16 +2,6 @@
 
 > **ChainForge Studio** is the official interactive hub for **ChainForge**—a lightweight, type-safe, and async-native Python framework for building LLM applications.
 
-## 📋 Description (The 7Cs)
-
-*   **Clear:** ChainForge Studio bridges the gap between complex Python code and developer understanding by providing a visual interface for documentation and experimentation.
-*   **Concise:** A streamlined Single Page Application (SPA) focused strictly on the core needs of the developer: learning, testing, and downloading.
-*   **Concrete:** Features a real-time "Agent Simulator" that mimics the framework's terminal output, allowing users to verify logic before installing the library.
-*   **Correct:** Built on React 19 and Tailwind CSS, utilizing the Google Gemini API to accurately simulate the reasoning loops of ReAct agents.
-*   **Coherent:** Seamlessly navigates between Source Code, Live Playground, and Documentation views with a unified dark-mode aesthetic.
-*   **Complete:** Includes the full source code of the framework (`chainforge.py`), installation guides, and RAG pipeline examples.
-*   **Courteous:** Designed with developer experience in mind, offering one-click downloads and copy-paste functionality for all examples.
-
 ## ✨ Key Features
 
 1.  **🐍 Source Code Explorer**
