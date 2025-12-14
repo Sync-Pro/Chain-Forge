@@ -1,0 +1,5 @@
+{
+  "name": "ChainForge Studio",
+  "description": "Interactive documentation and playground for the ChainForge Python framework, featuring source code explorer and live agent simulation powered by Gemini.",
+  "requestFramePermissions": []
+}
